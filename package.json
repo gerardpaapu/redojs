@@ -1,0 +1,14 @@
+{
+  "name": "redo",
+  "version": "1.0.0",
+  "description": "djb redo, but swap sh for node",
+  "main": "index.js",
+  "bin": {
+    "redo": "./bin/redo.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
